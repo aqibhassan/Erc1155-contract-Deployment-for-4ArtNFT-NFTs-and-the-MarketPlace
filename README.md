@@ -1,4 +1,4 @@
-# 4art-nft-truffle-contract-deployment
+# 4art nft and MarketPlace Erc1155 ontract deployment using truffle.
 
 Repo contains Production Ready truffle and web3 setup to deploy ERC1155 contract for NFTs.
 
